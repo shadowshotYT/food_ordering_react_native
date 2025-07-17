@@ -1,6 +1,6 @@
 Food Ordering App using React Native
 
-This full-stack food delivery app, which was created using React Native, TypeScript, and Tailwind CSS, has Google Authentication, dynamic search and filters, cart capabilities, and seamless navigation. It uses contemporary UI/UX best practices to provide a responsive, scalable, and user-friendly interface, supported by Appwrite for database, file storage, and backend functions.
+This full-stack food delivery app which has been created using React Native, TypeScript, Tailwind CSS, Google Authentication, dynamic search and filters, cart capabilities, and seamless navigation. It uses contemporary UI/UX best practices to provide a responsive, scalable, and user-friendly interface, supported by Appwrite for database, file storage and backend functions.
 
 ⚙️ Tech Stack
 - Appwrite
@@ -26,3 +26,15 @@ This full-stack food delivery app, which was created using React Native, TypeScr
 - Profile Page: Manage user settings and preferences.
 
 - Appwrite Integration: Handles backend database and file storage for food items.
+
+🤸 Quick Start
+Follow these steps to set up the project locally on your machine.
+
+Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Git
+- Node.js
+- npm (Node Package Manager)
+
